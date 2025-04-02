@@ -1,1 +1,2 @@
-This was my first practice website, i didnt uploaad ot github initially and lost all my images but yeah.
+This was my first practice website. I didn't upload it to GitHub initially and lost all my images, but yeah.
+I have used AI to help me in coding and completing the project
